@@ -9,7 +9,7 @@ This analysis explores the sales performance, customer behavior, product categor
 The dashboard highlights the store’s overall performance at a glance:
 
 *   **Sales:** The store made **₹1.6 million** in total sales, showing strong business activity.
-*   **Orders:** 22.3K orders placed, highlighting solid product movement and customer               engagement.
+*   **Orders:** Total **22.3K** orders were placed, showing that products are selling well and customers are actively buying.
 *   **Profit:** A solid **₹175K profit** was earned, showing good cost control.
 *   **Ship Days:** (**Average Delivery Time**) Products are shipped within 4 days on average, indicating smooth and timely order fulfillment.
 
@@ -32,6 +32,7 @@ This visualization tracks how customers prefer to pay:
 
 *   **Top Method:** Cash on Delivery (COD) dominates with **43%** of transactions.
 *   **Digital Use:** Online payments account for **35%**, while cards are used for **22%**.
+  
 COD remains most popular, but there is significant adoption of digital payment options.
 
 
@@ -64,6 +65,7 @@ The profit line chart shows earnings trends over time:
 
 *   **Improved Profitability:** **2020** consistently outperformed **2019** in profitability.
 *   **Spikes:** Significant profit jumps seen in **May, October,** and **December**.
+  
 Improved margin strategies or high-value product sales contributed to higher profits in specific months.
 
 
