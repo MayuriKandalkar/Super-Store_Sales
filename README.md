@@ -9,10 +9,11 @@ This analysis explores the sales performance, customer behavior, product categor
 The dashboard highlights the store’s overall performance at a glance:
 
 *   **Sales:** The store made **₹1.6 million** in total sales, showing strong business activity.
-*   **Quantity:** Around **22,300 items** were sold, proving good product demand.
+*   **Orders:** 22.3K orders placed, highlighting solid product movement and customer               engagement.
 *   **Profit:** A solid **₹175K profit** was earned, showing good cost control.
-*   **Delivery:** (**Average Delivery Time**) Orders are delivered in about
-4 days, demonstrating effective shipping and order fulfillment.
+*   **Ship Days:** (**Average Delivery Time**) Products are shipped within 4 days on average, indicating smooth and timely order fulfillment.
+
+
 
 #### **2\. Sales by Segment:**
 
