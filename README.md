@@ -104,3 +104,8 @@ A detailed view of top-selling sub-categories:
 *   **Top Products:** Phones, Chairs, and Binders are the most sold sub-categories.
 
 These products are high in demand and likely major revenue drivers.
+
+
+## **Conclusion:**
+
+This dashboard shows that the retail business is doing well with good sales, many orders, and regular customers mostly from the Consumer segment. Office Supplies and Phones sell the most. The West and East regions bring in the highest sales. Products are delivered in about 4 days. Cash on Delivery is the most used payment method. Sales increase during festive months, and profits are improving due to smart planning and operations.
