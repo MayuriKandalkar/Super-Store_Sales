@@ -1,4 +1,4 @@
-# Super-Store Sales
+# Super-Store Sales Analysis
 
 This analysis explores the sales performance, customer behavior, product categories, and shipping efficiency of a retail superstore using key metrics and visualizations from the dashboard.
 
